@@ -1,5 +1,5 @@
 [package]
-name = "rust-stm32f3-embassy-helloworld2"
+name = "helloworld2"
 version = "0.1.0"
 edition = "2021"
 
